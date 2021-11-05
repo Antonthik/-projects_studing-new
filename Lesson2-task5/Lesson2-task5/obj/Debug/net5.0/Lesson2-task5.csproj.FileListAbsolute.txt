@@ -1,0 +1,16 @@
+C:\Users\ganse\source\repos\Lesson2-task5\Lesson2-task5\bin\Debug\net5.0\Lesson2-task5.exe
+C:\Users\ganse\source\repos\Lesson2-task5\Lesson2-task5\bin\Debug\net5.0\Lesson2-task5.deps.json
+C:\Users\ganse\source\repos\Lesson2-task5\Lesson2-task5\bin\Debug\net5.0\Lesson2-task5.runtimeconfig.json
+C:\Users\ganse\source\repos\Lesson2-task5\Lesson2-task5\bin\Debug\net5.0\Lesson2-task5.runtimeconfig.dev.json
+C:\Users\ganse\source\repos\Lesson2-task5\Lesson2-task5\bin\Debug\net5.0\Lesson2-task5.dll
+C:\Users\ganse\source\repos\Lesson2-task5\Lesson2-task5\bin\Debug\net5.0\ref\Lesson2-task5.dll
+C:\Users\ganse\source\repos\Lesson2-task5\Lesson2-task5\bin\Debug\net5.0\Lesson2-task5.pdb
+C:\Users\ganse\source\repos\Lesson2-task5\Lesson2-task5\obj\Debug\net5.0\Lesson2-task5.csproj.AssemblyReference.cache
+C:\Users\ganse\source\repos\Lesson2-task5\Lesson2-task5\obj\Debug\net5.0\Lesson2-task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganse\source\repos\Lesson2-task5\Lesson2-task5\obj\Debug\net5.0\Lesson2-task5.AssemblyInfoInputs.cache
+C:\Users\ganse\source\repos\Lesson2-task5\Lesson2-task5\obj\Debug\net5.0\Lesson2-task5.AssemblyInfo.cs
+C:\Users\ganse\source\repos\Lesson2-task5\Lesson2-task5\obj\Debug\net5.0\Lesson2-task5.csproj.CoreCompileInputs.cache
+C:\Users\ganse\source\repos\Lesson2-task5\Lesson2-task5\obj\Debug\net5.0\Lesson2-task5.dll
+C:\Users\ganse\source\repos\Lesson2-task5\Lesson2-task5\obj\Debug\net5.0\ref\Lesson2-task5.dll
+C:\Users\ganse\source\repos\Lesson2-task5\Lesson2-task5\obj\Debug\net5.0\Lesson2-task5.pdb
+C:\Users\ganse\source\repos\Lesson2-task5\Lesson2-task5\obj\Debug\net5.0\Lesson2-task5.genruntimeconfig.cache
